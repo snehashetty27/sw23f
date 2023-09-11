@@ -46,7 +46,7 @@ author: "Class of 3494/5095, Fall 2023"
 10/23  |                     | 
 10/30  |                     | 
 10/30  |  Ashley Merritt     | 
-11/06  |                     | 
+11/06  |  Huyen Nguyen       | 
 11/06  |                     | 
 11/13  |                     | 
 11/13  |                     | 
