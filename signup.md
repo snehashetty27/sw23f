@@ -26,7 +26,7 @@ author: "Class of 3494/5095, Fall 2023"
 11/06  |                     | 
 11/06  |                     | 
 11/13  |                     | 
-11/13  |      Shuiyi Hu      | 
+11/13  |                     | 
 
 11/13  | Alexander Rice      | 
 11/13  |                     | 
