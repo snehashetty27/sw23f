@@ -42,7 +42,7 @@ author: "Class of 3494/5095, Fall 2023"
 10/23  | Kathleen Houlihan   | 
 10/30  |                     | 
 11/06  |                     | 
-11/13  |                     | 
+11/13  | Thomas Lin          | 
 11/27  |                     | 
 12/04  |                     | 
 
