@@ -9,7 +9,7 @@ author: "Class of 3494/5095, Fall 2023"
 
  Date  |  Presenter          | Topic
 ------ | ------------------- | ------
-09/25  |                     | 
+09/25  | Mathew Chandy       | 
 09/25  |                     | 
 10/02  |                     | 
 10/02  |                     | 
