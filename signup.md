@@ -38,9 +38,9 @@ author: "Class of 3494/5095, Fall 2023"
 10/09  |                     | 
 10/16  |  Justin Chan        | 
 10/23  | Kathleen Houlihan   | 
-10/30  |  Ashley Merritt     | 
+10/30  |                     | 
 11/06  |  Huyen Nguyen       | 
 11/13  |  Miles Kee          | 
-11/27  |                     | 
+11/27  | Thomas Lin          | 
 12/04  |                     | 
 
