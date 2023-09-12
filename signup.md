@@ -13,10 +13,10 @@ author: "Class of 3494/5095, Fall 2023"
 09/25  |                     | 
 10/02  |                     | 
 10/02  |                     | 
-10/09  |Carol Li             | 
+10/09  | Carol Li            | 
 10/09  |                     | 
 10/16  |                     | 
-10/16  |                     | 
+10/16  | Shiyi Peng          | 
 10/23  |  Delia Lin          | 
 10/23  |  Chris Truedson     | 
 10/30  |     Shuiyi Hu       | 
