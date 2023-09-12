@@ -23,11 +23,11 @@ author: "Class of 3494/5095, Fall 2023"
 10/30  | Ashley Merritt      | 
 10/30  |                     | 
 11/06  | Luke Noel           | 
-11/06  |                     | 
+11/06  |    Lai Jiang        | 
 11/13  | Richa Patel         | 
 11/13  | Alexander Rice      | 
-11/27  |                     | 
-11/27  |                     | 
+11/20  |                     | 
+11/20  |                     | 
 12/04  |                     | 
 12/04  |                     | 
 
