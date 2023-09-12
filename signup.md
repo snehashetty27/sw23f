@@ -24,10 +24,10 @@ author: "Class of 3494/5095, Fall 2023"
 11/06  |                     | 
 11/06  |                     | 
 11/13  |                     | 
-11/13  |    Zoe Macris                 | 
+11/13  |                     | 
 11/20  |                     | 
 11/20  |                     | 
-12/04  |                     | 
+12/04  |  Zoe Macris         | 
 12/04  |                     | 
 
 # Section 2 (Monday 4:40 pm)
