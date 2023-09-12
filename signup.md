@@ -25,7 +25,7 @@ author: "Class of 3494/5095, Fall 2023"
 11/06  |    Lai Jiang        | 
 11/13  | Richa Patel         | 
 11/13  | Alexander Rice      | 
-11/20  |                     | 
+11/20  | Garrick Ho          | 
 11/20  |                     | 
 12/04  |                     | 
 12/04  |                     | 
