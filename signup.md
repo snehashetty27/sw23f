@@ -15,7 +15,7 @@ author: "Class of 3494/5095, Fall 2023"
 10/02  |                     | 
 10/09  |                     | 
 10/09  |                     | 
-10/16  |Boyoun Chung                     | 
+10/16  |Boyoun Chung         | 
 10/16  |                     | 
 10/23  |                     | 
 10/23  |                     | 
