@@ -36,7 +36,7 @@ author: "Class of 3494/5095, Fall 2023"
 ------ | ------------------- | ------
 09/25  |                     | 
 10/02  |                     | 
-10/09  |                     | 
+10/09  |  Sneha Shetty       | 
 10/16  |  Justin Chan        | 
 10/23  | Kathleen Houlihan   | 
 10/30  | Okem Chime          | 
